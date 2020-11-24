@@ -1,37 +1,16 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/NightCAT213/my_file/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NightCAT213/my_file/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+run [Jekyll](https://jekyllrb.com/)
+Думаю, на моем первом сайте сделаного с помощью GitHub как раз было-бы неплохо рассказать, как это делается.
+1. Создаем новый проект
+(почему-то не получается вставить скрин)
+2. Называем его index.md
+3. В commit changes пишем:"Update index.md"
+4. Далее нажимаем зеленую кнопку "Commit changes"
+И у вас появляется описание, как что делать.
+## Markdown
+Программу надо писать на Markdown. Особо ничего сложного нету.
+## Сайт
+Вот несколько полезных ссылок:
+[сайт1](https://tpverstak.ru/website-on-github/)
+[сайт2](https://medium.com/nuances-of-programming/%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D1%81%D0%B0%D0%B9%D1%82-%D0%BD%D0%B0-github-pages-e0f3c258ee22)
+[сайт3](https://vc.ru/dev/133908-cozdanie-sayta-na-github)
